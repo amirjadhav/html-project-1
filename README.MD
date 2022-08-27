@@ -20,7 +20,6 @@
 ## Time taken to finish this project
 
 - 4 hour to complete it.
-- 5 hour to make it responsive.
 
 #### Screenshot
 
